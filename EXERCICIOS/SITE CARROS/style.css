@@ -1,0 +1,37 @@
+@charset  "UTF-8";
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-image: linear-gradient(to right, #D177E6 40px, #9426ad6d );
+    text-align: center;
+    
+}
+h1 {
+    text-align: center;
+}
+ div {
+    height: 400px;
+    width: 300px;
+    display: inline-block
+ }
+
+
+
+h3, h2 {
+    text-align: center;
+}
+
+.golf {
+    padding-top: 10px;
+    margin-top: 10px;
+    display: inline;
+}
+
+.gol {
+    padding-top: 10px;
+}
+
+
+
